@@ -2,7 +2,7 @@
 To do:
 
 Add shoe command for memes
-ENVIRONMENT VARIABLE - IMPLEMENT IT NEXT TIME!
+Add a function to automatically backup data
 """
 
 import discord
