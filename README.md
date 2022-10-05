@@ -3,7 +3,8 @@ Discord bot for tracking and displaying gym visits with your friends
 
 ## List of commands
 
-!addme -- adds yourself to the database\n
+!addme -- adds yourself to the database
+
 !sesh -- record a gym session for yourself in the database
 
 !all -- displays all user data
