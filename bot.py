@@ -23,7 +23,7 @@ else:
     TOKEN = os.environ['DISCORD_GYM_BOT_TOKEN'] # use the default token
 
 description = "Gym Scheduler Bot"
-client = commands.Bot(command_prefix="!", description=description)
+client = commands.Bot(command_prefix="!", description=description, intents=discord.Intents.all())
 
 """ Universal Functions
 general rules: 
